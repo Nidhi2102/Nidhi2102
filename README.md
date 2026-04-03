@@ -24,17 +24,17 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 **B.Tech CSE (AI/ML)** student at **Symbiosis Institute of Technology, Nagpur**
-- 🤖 Interested in **AI/ML, NLP, Python, and Full Stack Development**
-- 📄 Presented a paper on **AI-powered Legal Text Summarization** at **IEEE ACROSET 2025**
-- 💼 Internship experience in **Cybersecurity** and **IT Services**
-- 🚀 Currently building **internship-ready, real-world projects**
+- **B.Tech CSE (AI/ML)** student at **Symbiosis Institute of Technology, Nagpur**
+- Interested in **AI/ML, NLP, Python, and Full Stack Development**
+-  Presented a paper on **AI-powered Legal Text Summarization** at **IEEE ACROSET 2025**
+-  Internship experience in **Cybersecurity** and **IT Services**
+-  Currently building **internship-ready, real-world projects**
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css,mysql,nodejs,express,mongodb,firebase,git,github,vscode&perline=7" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### ⚖️ AI Legal Text Summarizer
 **Python • Flask • NLP (Pegasus) • SQL**  
@@ -61,7 +61,7 @@ Summarizes lengthy legal documents using NLP to reduce manual reading effort.
 A full stack grocery platform with product search, cart management, and JWT authentication.
 
 ### 📢 Smart Notice Board System
-**Node.js • Express.js • MongoDB • HTML • CSS • JavaScript**  
+**Node.js • Express.js • Supabase • HTML • CSS • JavaScript**  
 A real-time notice management system for administrators and students.
 
 ---
