@@ -29,7 +29,7 @@
 ## About Me
 
 - **B.Tech CSE (AI/ML)** student at **Symbiosis Institute of Technology, Nagpur**
-- Interested in **AI/ML, NLP, Python, and Full Stack Development**
+- Interested in **AI/ML, NLP, Python, and Frontend Development**
 - Presented a paper on **AI-powered Legal Text Summarization** at **IEEE ACROSET 2025**
 - Internship experience in **Cybersecurity** and **IT Services**
 - Currently building **internship-ready, real-world projects**
